@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on learning data structures and algorithms with frontend development on the side
 - 🌱 I’m currently learning html and css
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like eating skittles and coffee when I'm bored
+- ⚡ Fun fact: I like eating skittles with coffee when I'm bored ☕ 
 
 🧰 Toolbox
 
