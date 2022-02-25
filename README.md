@@ -19,4 +19,4 @@
  
   <!-- - 📫 How to reach me: ... -->
  
-![image](https://user-images.githubusercontent.com/71842251/134153235-6fe53aaa-3de8-487e-b9d2-3136e7be7e25.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauradip007)](https://github.com/anuraghazra/github-readme-stats)
