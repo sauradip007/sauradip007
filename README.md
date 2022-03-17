@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on building cool projects and contributing to open source 😃
-- 🌱 I’m currently learning web development!
+- 🌱 I’m currently learning React JS! 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like eating skittles with coffee when I'm bored ☕ 
 
