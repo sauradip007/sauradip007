@@ -18,8 +18,14 @@
  
  
   <!-- - Github stats: ... -->
+  ## Stats 📈
+  
+ <p align="center"> 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauradip007&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sauradip007&theme=highcontrast)](https://git.io/streak-stats)
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sauradip007&show_icons=true&theme=tokyonight"/>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sauradip007&theme=highcontrast"/>
+ </p>
+ 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sauradip007&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Social Media Links -->
 <!-- ### Reach out to me here
