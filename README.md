@@ -26,7 +26,7 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sauradip007&theme=highcontrast"/>
  </p>
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sauradip007&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sauradip007&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- Social Media Links -->
 <!-- ### Reach out to me here
 [![Linkedin Badge](https://img.shields.io/badge/-sauradip-sengupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sauradip-sengupta/)](https://www.linkedin.com/in/sauradip-s/) -->
